@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-linkedin-48.png)](https://www.linkedin.com/in/manideep-mallireddy-0116aa182/)             [![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-github-48.png)](https://github.com/Manideep-21)                                         [![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-twitter-48.png)](https://twitter.com/r00t01)
+[![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-linkedin-48.png)](https://www.linkedin.com/in/manideep-mallireddy-0116aa182/)             [![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-github-48.png)](https://github.com/r0h1t21)                                         [![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-twitter-48.png)](https://twitter.com/r00t01)
 - 🔭 I’m currently focused on web development (also working my way through Web3.0) and Machine Learning.
 - 👯 I’m looking to collaborate on challenging Machine Learning projects.
 - 💕 I luv coding, MOOCing and watching movies!
