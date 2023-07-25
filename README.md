@@ -2,7 +2,7 @@
 <!--![](https://camo.githubusercontent.com/76577f58e373b3fb5702506f28aa2e5b7a2e2618/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966)-->
 <img src="https://camo.githubusercontent.com/76577f58e373b3fb5702506f28aa2e5b7a2e2618/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966" width="280" height="200"/>
 
-I am **Rohit**, a Computer Science Graduate. I'm currently working as a Full Stack Web Developer in an MNC!
+I am **Rohit**, a Computer Science Graduate. I'm currently working as a Full Stack Web Developer in an MNC.
 <!--
 **Manideep-21/Manideep-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-linkedin-48.png)](https://www.linkedin.com/in/manideep-mallireddy-0116aa182/)             [![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-github-48.png)](https://github.com/r0h1t21)                                         [![](https://raw.githubusercontent.com/ombharatiya/ombharatiya/master/assets/icons/icons8-twitter-48.png)](https://twitter.com/r00t01)
-- 🔭 I’m currently focused on web development (also working my way through Web3.0) and Machine Learning.
-- 👯 I’m looking to collaborate on challenging Machine Learning projects.
-- 💕 I luv coding, MOOCing and watching movies!
+- 🔭 I’m currently focused on Web development and Machine Learning.
+- 👯 I’m looking to collaborate on anything that'll challenge my mind.
+- 💕 I luv coding, solving problems and watching movies!!!
 - 📫 How to reach out to me: Click the above icons 😉 
 
 ### Namaste!!! 🙏
